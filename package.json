@@ -1,0 +1,23 @@
+{
+  "name": "is-four-hundred-and-twenty",
+  "version": "1.0.0",
+  "description": "Determine if a number is four hundred and twenty.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaciejKrzysiak/is-four-hundred-and-twenty.git"
+  },
+  "keywords": [
+    "420",
+    "four hundred and twenty"
+  ],
+  "author": "Maciej Krzysiak <krzysiakmaciej159@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaciejKrzysiak/is-four-hundred-and-twenty/issues"
+  },
+  "homepage": "https://github.com/MaciejKrzysiak/is-four-hundred-and-twenty#readme"
+}
