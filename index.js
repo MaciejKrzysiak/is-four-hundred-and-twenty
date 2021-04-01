@@ -1,4 +1,4 @@
-exports.isEven = function(value) {
+exports.isFourHundredAndTwenty = function(value) {
     if (isNaN(value)) {
         return false
     } 
